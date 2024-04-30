@@ -10,6 +10,10 @@
 <p align="center">Outside of coding, I enjoy staying active, exploring the outdoors, and immersing myself in books that expand my perspective. I thrive on challenges and am always eager to collaborate with like-minded individuals on exciting projects that push the boundaries of innovation.</p>
 <hr>
 
+<h4 align="center">For a glimpse of my previous work, you can visit my lost access <a href="https://github.com/mehfooz201" target="_blank">GitHub account</a>.</h4>
+
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehfooz_ali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehfooz_ali1" height="30" width="40" /></a>
