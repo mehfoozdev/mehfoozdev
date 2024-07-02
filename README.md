@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-![Linkedin Banner (1)](https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe)
-
+  <img src="https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe" alt="Linkedin Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehfooz Ali</h1>
