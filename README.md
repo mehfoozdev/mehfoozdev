@@ -1,9 +1,10 @@
 <div style="text-align: center;">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGaLeF7zEuNzQ/profile-displaybackgroundimage-shrink_350_1400/0/1693859670697?e=1720051200&v=beta&t=usCcAr3Rt7BR0aMxe7udy3N8zeHz6Ca1MkOQsS2HTPk" alt="Coding Wallpaper">
+![Linkedin Banner (1)](https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe)
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehfooz Ali</h1>
-<h3 align="center">A passionate Backend Developer (Python/Django) & Fiverr Level-Two Seller</h3>
+<h3 align="center">A passionate Backend Developer (Python/Django) </h3>
 
 <p align="center">Currently, I am focused on honing my skills in Full Stack development, with a particular interest in delving deeper into the realms of Artificial Intelligence, Machine Learning and GenerativeAI. I believe that by combining my backend expertise with frontend proficiency, along with AI/ML specialization, I can contribute meaningfully to the advancement of technology and society.</p>
 
@@ -121,14 +122,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
@@ -146,24 +141,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 <hr>
