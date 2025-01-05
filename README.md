@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mehfooz Ali</h1>
 <h3 align="center">A passionate Software Engineer (Python/Django) </h3>
 
-<p align="center">Currently, I am focused on honing my skills in Software Engineering, with a particular interest in delving deeper into the realms of Artificial Intelligence, Machine Learning and GenerativeAI. I believe that by combining my backend expertise with frontend proficiency, along with AI/ML specialization, I can contribute meaningfully to the advancement of technology and society.</p>
+<p align="center">Currently, I am focused on honing my skills in Software Engineering, with a particular interest in delving deeper into the realms of AI / ML and GenerativeAI. I believe that by combining my backend expertise with AI/ML specialization, I can contribute meaningfully to the advancement of technology and society.</p>
 
 <p align="center">Outside of coding, I enjoy staying active, exploring the outdoors, and immersing myself in books that expand my perspective. I thrive on challenges and am always eager to collaborate with like-minded individuals on exciting projects that push the boundaries of innovation.</p>
 <hr>
@@ -41,9 +41,6 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
