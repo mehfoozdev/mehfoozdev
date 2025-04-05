@@ -1,5 +1,7 @@
 <div style="text-align: center;">
-  <img src="https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe" alt="Linkedin Banner">
+<!--   <img src="https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe" alt="Linkedin Banner">-->
+  <img src="https://github.com/user-attachments/assets/6f6c5337-59a5-4786-9b09-5dde7878b6a9" alt="Linkedin Banner" >
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehfooz Ali</h1>
