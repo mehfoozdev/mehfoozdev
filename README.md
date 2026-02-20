@@ -1,15 +1,17 @@
 <div style="text-align: center;">
 <!--   <img src="https://github.com/mehfoozdev/mehfoozdev/assets/168359047/efae48a1-88d1-4481-9cbc-b2e3503667fe" alt="Linkedin Banner">-->
-  <img src="https://github.com/user-attachments/assets/6f6c5337-59a5-4786-9b09-5dde7878b6a9" alt="Linkedin Banner" >
+<img width="2048" height="512" alt="Gemini_Generated_Image_bk0vzgbk0vzgbk0v" src="https://github.com/user-attachments/assets/829eaed7-9561-4ebd-af39-507bdc221565" />
 
 </div>
 
 <h1 align="center">Hi 👋, I'm Mehfooz Ali</h1>
-<h3 align="center">A passionate Software Engineer (Python/Django) </h3>
+<h3 align="center">Software Engineer | Python & Django | AI/ML Enthusiast </h3>
 
-<p align="center">Currently, I am focused on honing my skills in Software Engineering, with a particular interest in delving deeper into the realms of AI / ML and GenerativeAI. I believe that by combining my backend expertise with AI/ML specialization, I can contribute meaningfully to the advancement of technology and society.</p>
+<p align="center">I build scalable backend systems and end-to-end Machine Learning and AI applications. 
+<br> 
+Currently focused on AI, ML, and MLOps — combining software engineering principles with intelligent systems.</p>
 
-<p align="center">Outside of coding, I enjoy staying active, exploring the outdoors, and immersing myself in books that expand my perspective. I thrive on challenges and am always eager to collaborate with like-minded individuals on exciting projects that push the boundaries of innovation.</p>
+<p align="center">Interested in building production-ready AI solutions that solve real-world problems.</p>
 <hr>
 
 <h4 align="center">For a glimpse of my previous work, you can visit my lost access <a href="https://github.com/mehfooz201" target="_blank">GitHub account</a>.</h4>
